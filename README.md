@@ -1,7 +1,7 @@
 
 # Serlokas
 
-*About*
+## About
 
 This is solutions to homework accomplished during Javascript trainings.
 
